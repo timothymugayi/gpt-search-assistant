@@ -17,6 +17,8 @@ pip install wikipedia
 
 pip install google-api-python-client
 
+pip install google-search-results
+
 ```
 [coinmarketcap_search.py](coinmarketcap_search.py) file is a Crypto currency Wrapper 
 to coinmarket cap to get the latest prices for over 9k cryptocurrency coins
